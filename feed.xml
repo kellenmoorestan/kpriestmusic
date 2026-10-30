@@ -3,31 +3,27 @@
     <title>k priest music</title>
     <link href="https://kellenmoorestan.github.io/kpriestmusic/feed.xml" rel="self" />
     <link href="https://kellenmoorestan.github.io/kpriestmusic" />
-    <updated>2026-10-30T11:51:11-05:00</updated>
+    <updated>2026-10-30T15:37:43-05:00</updated>
     <author>
         <name>Kevin Priestley</name>
     </author>
     <id>https://kellenmoorestan.github.io/kpriestmusic</id>
 
     <entry>
-        <title>This is a test</title>
+        <title>Test1</title>
         <author>
             <name>Kevin Priestley</name>
         </author>
-        <link href="https://kellenmoorestan.github.io/kpriestmusic/this-is-a-test/"/>
-        <id>https://kellenmoorestan.github.io/kpriestmusic/this-is-a-test/</id>
+        <link href="https://kellenmoorestan.github.io/kpriestmusic/writings/test1/"/>
+        <id>https://kellenmoorestan.github.io/kpriestmusic/writings/test1/</id>
 
-        <updated>2026-10-30T11:51:11-05:00</updated>
-            <summary type="html">
-                <![CDATA[
-                    I like to test the creation of websites.
-                ]]>
-            </summary>
+        <updated>2026-10-30T15:35:19-05:00</updated>
+            <summary></summary>
         <content type="html">
             <![CDATA[
                 
   <p>
-    I like to test the creation of websites.
+    
   </p>
             ]]>
         </content>

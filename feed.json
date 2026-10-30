@@ -5,23 +5,23 @@
     "home_page_url": "https://kellenmoorestan.github.io/kpriestmusic",
     "feed_url": "https://kellenmoorestan.github.io/kpriestmusic/feed.json",
     "user_comment": "",
+    "icon": "https://kellenmoorestan.github.io/kpriestmusic/media/website/LoraHlavsaArt.jpg",
     "author": {
         "name": "Kevin Priestley"
     },
     "items": [
         {
-            "id": "https://kellenmoorestan.github.io/kpriestmusic/this-is-a-test/",
-            "url": "https://kellenmoorestan.github.io/kpriestmusic/this-is-a-test/",
-            "title": "This is a test",
-            "summary": "I like to test the creation of websites.",
-            "content_html": "\n  <p>\n    I like to test the creation of websites.\n  </p>",
+            "id": "https://kellenmoorestan.github.io/kpriestmusic/writings/test1/",
+            "url": "https://kellenmoorestan.github.io/kpriestmusic/writings/test1/",
+            "title": "Test1",
+            "content_html": "\n  <p>\n    \n  </p>",
             "author": {
                 "name": "Kevin Priestley"
             },
             "tags": [
             ],
-            "date_published": "2026-10-30T11:51:11-05:00",
-            "date_modified": "2026-10-30T11:51:11-05:00"
+            "date_published": "2026-10-30T15:35:19-05:00",
+            "date_modified": "2026-10-30T15:37:43-05:00"
         }
     ]
 }
