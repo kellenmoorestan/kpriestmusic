@@ -3,27 +3,48 @@
     <title>k priest music</title>
     <link href="https://kellenmoorestan.github.io/kpriestmusic/feed.xml" rel="self" />
     <link href="https://kellenmoorestan.github.io/kpriestmusic" />
-    <updated>2026-10-30T15:37:43-05:00</updated>
+    <updated>2026-11-14T16:51:23-06:00</updated>
     <author>
         <name>Kevin Priestley</name>
     </author>
     <id>https://kellenmoorestan.github.io/kpriestmusic</id>
 
     <entry>
-        <title>Test1</title>
+        <title>welcome to the project</title>
         <author>
             <name>Kevin Priestley</name>
         </author>
-        <link href="https://kellenmoorestan.github.io/kpriestmusic/writings/test1/"/>
-        <id>https://kellenmoorestan.github.io/kpriestmusic/writings/test1/</id>
+        <link href="https://kellenmoorestan.github.io/kpriestmusic/writings/welcome-to-the-project/"/>
+        <id>https://kellenmoorestan.github.io/kpriestmusic/writings/welcome-to-the-project/</id>
+            <category term="welcome"/>
 
-        <updated>2026-10-30T15:35:19-05:00</updated>
-            <summary></summary>
+        <updated>2026-11-14T16:50:26-06:00</updated>
+            <summary type="html">
+                <![CDATA[
+                    this website is an ongoing project. a place away from social media where i can write about... whatever i want. i intend to focus this space on music, art, and daily life as a dad-musician. i'll try not to over-do it, but it's unambigously me&hellip;
+                ]]>
+            </summary>
         <content type="html">
             <![CDATA[
                 
   <p>
-    
+    this website is an ongoing project. a place away from social media where i can write about... whatever i want. i intend to focus this space on music, art, and daily life as a dad-musician. i'll try not to over-do it, but it's unambigously me to write about politics and philosophy. eventually, i'll create tags and make it easier to search for stuff on the site.&nbsp;
+  </p>
+
+  <p>
+    if you want updates directly to your inbox, fill out this <a href="https://cf6526ba.sibforms.com/serve/MUIFAKSqx_Vz3sChfXOgg4JpvTn3SskzX7ba18CDbBSvUDF0RVECr64PvtDaC89_ya9xKkddmPHB5KU4jHxyMLt32aT0CG0GiImm9yTtyL5-mA1_a1DZe6MWKJrrmgs43HRHBcuD1Ary3G6QSR_RLVqkCdRm3lECpbNntex5Ck4n8bsfr-1I8Q5APBMnWWRDVhySMDOMZcYWAOsThA==">sign-up form</a>.&nbsp;
+  </p>
+
+  <p>
+    much love.
+  </p>
+
+  <p>
+    - Kevin&nbsp;
+  </p>
+
+  <p>
+    p.s.&nbsp;i take data privacy really seriously, so this site doesn't have tracking enabled and the sign-up form info you submit is hosted in the EU, where the information you share falls under GDPR guidelines.
   </p>
             ]]>
         </content>
